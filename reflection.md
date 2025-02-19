@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+Throughout this assignment I learned a lot about streamlit. Firstly, in part 1 I learned how to use the info and succeed commands to output data in a more aesthetically pleasing way. Next, in part 2 I learned how to upload a file using streamlit, and how it works a little differently that normal when trying to read a file. I noticed you have to manually encode the utf to get it to function as a string. Finally, in part 3 I learned how to use st.session_state to keep constant variables when inputting new files. This was the most challenging part as I had a hard time being able to keep track of the packages, and files while also saving to different json files, and outputting everything correctly. In the end I got it to work after many trials and erros, I feel I have a much more comprehensive understanding of streamlit after this assignment. 
